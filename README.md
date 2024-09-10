@@ -45,4 +45,4 @@ This documentation provides a comprehensive guide to essential Linux commands, c
 
 ## Conclusion
 
-Mastering these essential Linux commands will help you navigate and manage files, directories, and systems efficiently. Practice these commands to become proficient in Linux and take your skills to the next level.
+Mastering these essential Linux commands will help you navigate and manage files, directories, and systems efficiently. 
