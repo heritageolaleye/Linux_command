@@ -1,4 +1,4 @@
-# Here is the documentation:
+
 
 _Linux Essentials Documentation_
 
