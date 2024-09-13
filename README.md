@@ -1,5 +1,3 @@
-
-
 _Linux Essentials Documentation_
 
 _Introduction_
@@ -17,6 +15,9 @@ _File and Directory Management_
 - `cd`: Change directory into the created directory
 - `ll`: List files in the directory with permissions
 - `cat`: Display contents of a file
+
+- ![mkdir, cat, cd](https://github.com/user-attachments/assets/b829779c-83c0-4d15-b718-d5289440cc98)
+
 - `touch`: Create new files (e.g., `S3` and `EC2`)
 - `rm`: Remove a file
 - `rm -r`: Recursively delete a directory
