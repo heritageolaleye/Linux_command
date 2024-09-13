@@ -1,10 +1,10 @@
-#Linux Essentials Documentation_
+Linux Essentials Documentation_
 
-##Introduction_
+Introduction_
 
 This documentation provides a step-by-step guide to performing various Linux tasks, including file and directory management, user and group administration, and system information.
 
-##Prerequisites_
+Prerequisites_
 
 - Basic understanding of Linux operating system
 - Access to a Linux terminal or command line interface
